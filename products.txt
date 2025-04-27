@@ -1,0 +1,25 @@
+1,Vitamin C Serum,Garnier,280,1000.0,France
+2,Skin Cleanser,Cetaphil,800,280.0,Switzerland
+3,Sunscreen,Aqualogica,45,700.0,India
+4,Aloe Vera Gel,Nature Republic,800,600.0,South Korea
+5,Brightening Night Cream,Olay,5,2926.0,USA
+6,Charcoal Mask,Freeman,33,663.0,USA
+7,Collagen Cream,Etude House,30,1795.0,South Korea
+8,Exfoliating Scrub,St. Ives,48,796.0,USA
+9,Facial Cleanser,Cetaphil,65,1263.0,USA
+10,Glow Serum,Glow Recipe,60,3724.0,USA
+11,Green Tea Toner,Innisfree,60,1396.0,South Korea
+12,Hydrating Face Wash,Neutrogena,50,1195.0,USA
+13,Hyaluronic Acid Serum,L'Oréal,140,2261.0,France
+14,Micellar Water,Bioderma,45,1562.0,France
+15,Moisturizing Cream,CeraVe,70,1993.0,USA
+16,Niacinamide Serum,The Inkey List,35,1328.0,UK
+17,Retinol Night Cream,Olay,25,3323.0,USA
+18,Rice Water Bright Cleanser,The Face Shop,55,1062.0,South Korea
+19,Rose Water Spray,Heritage Store,60,964.0,USA
+20,Skin Cleanser,Cetaphil,280,1330.0,Switzerland
+21,Snail Mucin Essence,COSRX,30,2793.0,South Korea
+22,Sunscreen,Aqualogica,700,2660.0,India
+23,Sunscreen SPF 50,La Roche-Posay,40,2660.0,France
+24,Tea Tree Oil,The Body Shop,40,1596.0,UK
+25,lado,puti,70,90.0,rjhabfr
